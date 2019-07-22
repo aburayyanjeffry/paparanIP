@@ -1,7 +1,7 @@
 @echo off
 REM Author: Jeffry Johar 2019
 
-@echo Selamat Datang ke Paparan I.P. oleh GIT Telekom Malaysia 
+@echo Selamat Datang ke Paparan I.P. oleh GIT  
  
 
 @echo.
